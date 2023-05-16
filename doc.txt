@@ -1,0 +1,33 @@
+color:
+    black  #000000
+    green  #21B573
+    red    #FD511A
+
+bg:
+    lite green    #F0FFF0
+    footer        #282531
+
+typhography:
+            poppins       400,500,700
+            font-family: 'Poppins', sans-serif;
+
+            btn- roboto   400
+            font-family: 'Roboto', sans-serif;
+
+ 
+            border radious  : 33px;
+            background color: #21B573;
+            text 
+
+
+            padding width width
+
+
+xxl-xl-lg      md      sm-col            
+banner
+h1   48px     45 
+
+
+xxl-xl-lg      md      sm-col   
+padding
+100-120       80-100     50-70
